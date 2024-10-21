@@ -1,4 +1,8 @@
-## Hi there 👋
+# About me
+## About me
+### About me
+
+I have experience in molecular dynamics simulations. Currently, I am learning machine learning and data science related technologies.
 
 <!--
 **MarkMindel/MarkMindel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
